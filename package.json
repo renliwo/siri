@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "child-process-promise": "^2.2.1",
+    "inquirer": "^5.2.0"
+  }
+}
