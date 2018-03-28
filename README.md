@@ -5,6 +5,6 @@
 ## 使用方式
 
 ```bash
-npm i duiba-gernerator-activity -g
-dga-cli
+npm i duiba-siri -g
+siri
 ```
